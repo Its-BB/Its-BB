@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗ ██╗██████╗ ██╗
-██╔══██╗██║██╔══██╗██║
-██████╔╝██║██████╔╝██║
-██╔══██╗██║██╔══██╗██║
-██████╔╝██║██████╔╝██║
-╚═════╝ ╚═╝╚═════╝ ╚═╝
+ ██████╗ ██╗██████╗ ██╗
+ ██╔══██╗██║██╔══██╗██║
+ ██████╔╝██║██████╔╝██║
+ ██╔══██╗██║██╔══██╗██║
+ ██████╔╝██║██████╔╝██║
+ ╚═════╝ ╚═╝╚═════╝ ╚═╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Student+%7C+Freelancer+%7C+Builder;Polyglot+Programmer+%F0%9F%A7%A0;Turning+caffeine+into+code+since+day+1;Lazy%3F+Yes.+Smart%3F+Also+yes.+%F0%9F%98%8E" alt="Typing SVG" />
@@ -14,9 +14,13 @@
 <br/>
 
 [![Discord](https://img.shields.io/badge/Discord-itsbimbi-%237289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/itsbimbi)
-[![Twitter/X](https://img.shields.io/badge/X-@CoderBiBi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/@CoderBiBi)
-[![Email](https://img.shields.io/badge/Email-coderbimbi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:coderbimbi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00FFB3?style=flat-square&logo=firefox&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%40CoderBiBi-black?style=flat-square&logo=x&logoColor=white)](https://x.com/@CoderBiBi)
+[![Email](https://img.shields.io/badge/Email-coderbimbi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:coderbimbi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-00FFB3?style=flat-square&logo=firefox&logoColor=white)](#)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Its-BB&style=flat-square&color=00FFB3&label=PROFILE+VIEWS)
 
 </div>
 
@@ -82,7 +86,7 @@ open_to:    ["Freelance projects", "Collabs", "Internships", "Cool ideas"]
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -106,32 +110,36 @@ open_to:    ["Freelance projects", "Collabs", "Internships", "Cool ideas"]
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </details>
 
 ---
 
-## `$ cat ./stats.json`
+## `$ cat ./activity.log`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Its-BB&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-BB&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Its-BB&theme=chartreuse-dark&hide_border=true" />
+<!-- Snake contribution graph — generate yours at: https://github.com/Platane/snk -->
+<!-- After setup, replace the src below with your own generated snake SVG URL -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-BB/Its-BB/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Its-BB/Its-BB/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Its-BB/Its-BB/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
+> **⚙️ Setup the snake:** Go to your `Its-BB/Its-BB` repo → Actions → add the [Platane/snk](https://github.com/Platane/snk) workflow → it auto-generates the snake every day!
+
 ---
 
-## `$ git log --oneline --graph` *(What I'm building)*
+## `$ git log --oneline --graph`
 
 ```
 * 🚀 [WIP]   Projects for college applications
-* ✅ [DONE]  Freelance client work — web apps, automation
-* 📚 [LEARN] New languages, frameworks, and rabbit holes
+* ✅ [DONE]  Freelance client work — web apps & automation
+* 📚 [LEARN] New languages, frameworks & rabbit holes
 * 🔭 [NEXT]  Something ambitious. Stay tuned.
 ```
 
@@ -148,12 +156,11 @@ open_to:    ["Freelance projects", "Collabs", "Internships", "Cool ideas"]
 
 **Got a project? A collab idea? Or just wanna talk tech?**
 
-[![Discord](https://img.shields.io/badge/Discord-Chat_with_me-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/itsbimbi)
-[![Email](https://img.shields.io/badge/Email-Hit_my_inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderbimbi@gmail.com)
-
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=Its-BB&label=Profile%20Views&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
+[![Discord](https://img.shields.io/badge/Discord-Chat%20with%20me-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/itsbimbi)
+[![Email](https://img.shields.io/badge/Email-Hit%20my%20inbox-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderbimbi@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow%20me-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@CoderBiBi)
 
 <br/>
 
