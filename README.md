@@ -120,17 +120,9 @@ open_to:    ["Freelance projects", "Collabs", "Internships", "Cool ideas"]
 
 <div align="center">
 
-<!-- Snake contribution graph — generate yours at: https://github.com/Platane/snk -->
-<!-- After setup, replace the src below with your own generated snake SVG URL -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-BB/Its-BB/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Its-BB/Its-BB/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Its-BB/Its-BB/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-BB&theme=react-dark&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
-
-> **⚙️ Setup the snake:** Go to your `Its-BB/Its-BB` repo → Actions → add the [Platane/snk](https://github.com/Platane/snk) workflow → it auto-generates the snake every day!
 
 ---
 
